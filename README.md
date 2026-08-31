@@ -9,3 +9,4 @@ I felt it is very scalable in horizontal directions without much burden on firm 
 | **2** | **Disease Predictor**        | **TF-IDF + Multinomial Naive Bayes** | Predicts possible diseases from the user's symptom text                     |
 | **3** | **Food Image Classifier**    | **CLIP**                             | Identifies food from an uploaded image                                      |
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/54011ec1-5240-4c4c-b9d0-4ca1722f3191" />
